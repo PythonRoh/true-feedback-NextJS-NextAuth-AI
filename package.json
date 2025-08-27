@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^2.0.22",
     "@react-email/components": "^0.5.1",
     "@react-email/render": "^1.2.1",
+    "ai": "^5.0.26",
     "bcryptjs": "^3.0.2",
     "mongoose": "^8.17.1",
     "next": "14.1.3",
